@@ -6,7 +6,7 @@ from skimage import to io		#reads pictures.. io is the norm
 
 a = np.zeros(3)				#3 zero array. numbers are floats
 
-a.shape = (3,2)				#changed the shape to 3 by 2
+a.shape = (3,1)				#changed the shape to 3 by 2
 
 a = np.linspace(2,10,4)			#make an array, with a size of 4, that gives random numbers from 2 to 10 
 
