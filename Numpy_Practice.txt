@@ -1,0 +1,17 @@
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+from skimage import  io
+
+
+#photo = io.imread(r'C:\Users\Home\Downloads\sagad.jpg')
+#photo_masked = np.where(photo>100, 200, 0)     #exposure
+#plt.imshow(photo_masked)
+#plt.show()
+
+
+x = np.zeros(3)
+x.shape=(3,1)
+print(x)
+
