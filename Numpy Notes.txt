@@ -1,7 +1,7 @@
 import numpy as np			#np is the norm
 import matplotlib.pyplot as plt		
 
-from skimage import to io		#reads pictures.. io is the norm
+from skimage import  io		#reads pictures.. io is the norm
 *********Creating an array**************
 
 a = np.zeros(3)				#3 zero array. numbers are floats
